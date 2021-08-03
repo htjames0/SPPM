@@ -1,0 +1,23 @@
+import numpy as np
+import time 
+from pyrh import Robinhood
+
+#login into Robinhood Account
+#rh = Robinhood()
+#rh.login(username = "____", password = "____")
+
+#initialize parameters
+
+
+#helper functions
+	-calculate RSI
+		-get closing prices 
+		-calcualte up or down 
+		... use formula from wikipedia
+
+	-maybe getRSI function that when given stock ticker name as input will produce RSI data 
+
+#analyze data - get RSI data on stock
+
+
+#excute trade based on data 
